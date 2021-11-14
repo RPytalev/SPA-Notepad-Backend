@@ -43,19 +43,6 @@
       "reminder": false
     },
     {
-      "date": "2021-11-10T19:42:18.800Z",
-      "id": 85,
-      "rawText": "Meeting with Nick\nNovember 10th at 16:00 pm\n#meeting #SPA #API #REST #debugging \n\nTEST TEST ETS",
-      "tags": [
-        "#meeting",
-        "#SPA",
-        "#API",
-        "#REST",
-        "#debugging"
-      ],
-      "reminder": false
-    },
-    {
       "date": "2021.10.10 15:32",
       "id": 62,
       "rawText": "Christmas\n#Christmas #Happy #new #Year #gifts \n",
@@ -77,20 +64,6 @@
         "#HTML",
         "#CSS"
       ],
-      "reminder": false
-    },
-    {
-      "date": "2021.10.10 20:7",
-      "id": 901,
-      "rawText": "New Note\nvgvgvggv\n",
-      "tags": [],
-      "reminder": false
-    },
-    {
-      "date": "2021-11-10T20:15:45.933Z",
-      "id": 852,
-      "rawText": "Test Test",
-      "tags": [],
       "reminder": false
     }
   ]
